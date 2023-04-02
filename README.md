@@ -6,4 +6,4 @@
 
 <p>HTML, CSS, JAVASCRIPT KULLANILARAK HAZIRLANDI<p>
 
-![ekran.gif]
+![](ekran.gif)
